@@ -42,7 +42,7 @@ main {
     flex-direction: column;
     flex: 2;
     padding-left: 160px;
-    background: url(/images/bg-pattern-desktop.svg) center center/cover no-repeat;
+    background: url(images/bg-pattern-desktop.svg) center center/cover no-repeat;
 }
 
 
